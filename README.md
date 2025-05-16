@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Edraq 👋
 
-<!--
-**edraq/edraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building robust software, learning new technologies, and collaborating on open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding, exploring new frameworks, and contributing to open-source.
+- 🌱 Currently learning: **TypeScript**, **Rust**, and advanced **DevOps** practices.
+- 🛠️ Tech stack: **C++**, **JavaScript/TypeScript**, **QT**
+- 🗃️ Interested in cloud-native development, distributed systems, and developer tooling.
+- 📫 How to reach me: [abidikadier@gmail.com](1305563003@qq.com)
+
+## 📊 GitHub Stats
+
+![Edraq's GitHub stats](https://github-readme-stats.vercel.app/api?username=edraq&show_icons=true&theme=default)
+
+
+## 🤝 Let's Collaborate!
+
+I'm always open to collaborating on interesting projects, learning from other developers, and sharing knowledge. Feel free to reach out if you have an idea or just want to say hi!
+
+---
+
+> *Keep building, keep learning, and happy coding!*
+
+
+--
+
+
+
